@@ -1,0 +1,119 @@
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe.config
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\bin\Debug\Administration_APP.pdb
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\bin\Debug\MetroFramework.dll
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\bin\Debug\MetroFramework.Fonts.dll
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csprojResolveAssemblyReference.cache
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Properties.Resources.resources
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csproj.GenerateResource.Cache
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.exe
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.pdb
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.AddEditForm.resources
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.StorageForm.resources
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.LoginForm.resources
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\bin\Debug\MySql.Data.xml
+E:\_Suli\Szakdolgozat\Administration_APP\Administration_APP\obj\Debug\Administration_APP.DatabaseSelectForm.resources
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe.config
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.exe
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.pdb
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\Administration_APP.pdb
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\MetroFramework.dll
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\MySql.Data.xml
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csprojResolveAssemblyReference.cache
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.AddEditForm.resources
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.DatabaseSelectForm.resources
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.LoginForm.resources
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.OrderForm.resources
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Properties.Resources.resources
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csproj.GenerateResource.Cache
+J:\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe.config
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.exe
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.pdb
+J:\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe
+J:\Administration_APP\Administration_APP\bin\Debug\Administration_APP.pdb
+J:\Administration_APP\Administration_APP\bin\Debug\MetroFramework.dll
+J:\Administration_APP\Administration_APP\bin\Debug\MetroFramework.Fonts.dll
+J:\Administration_APP\Administration_APP\bin\Debug\MySql.Data.xml
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csprojResolveAssemblyReference.cache
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.AddEditForm.resources
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.DatabaseSelectForm.resources
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.LoginForm.resources
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.OrderForm.resources
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Properties.Resources.resources
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.StorageForm.resources
+J:\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csproj.GenerateResource.Cache
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe.config
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.exe
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.pdb
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\bin\Debug\Administration_APP.pdb
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\bin\Debug\MetroFramework.dll
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\bin\Debug\MySql.Data.xml
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csprojResolveAssemblyReference.cache
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.AddEditForm.resources
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.DatabaseSelectForm.resources
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.LoginForm.resources
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.OrderForm.resources
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Properties.Resources.resources
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.StorageForm.resources
+C:\Users\g5mesand\Desktop\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csproj.GenerateResource.Cache
+C:\Users\Andris\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Warehouse.resources
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\bin\Debug\Administration_APP.exe.config
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.exe
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.pdb
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\bin\Debug\Administration_APP.exe
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\bin\Debug\Administration_APP.pdb
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\bin\Debug\MetroFramework.dll
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\bin\Debug\MySql.Data.xml
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.csprojResolveAssemblyReference.cache
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.AddEditForm.resources
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.LoginForm.resources
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.OrderForm.resources
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.Properties.Resources.resources
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.Warehouse.resources
+C:\Users\g5mesand\Downloads\Administration_APP (2)\Administration_APP\obj\Debug\Administration_APP.csproj.GenerateResource.Cache
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe.config
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.exe
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.pdb
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\bin\Debug\Administration_APP.pdb
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\bin\Debug\MetroFramework.dll
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\bin\Debug\MySql.Data.xml
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csprojResolveAssemblyReference.cache
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.AddEditForm.resources
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.LoginForm.resources
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.OrderForm.resources
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Properties.Resources.resources
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Warehouse.resources
+C:\Users\g5mesand\Downloads\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csproj.GenerateResource.Cache
+C:\xampp\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe.config
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.exe
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.pdb
+C:\xampp\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe
+C:\xampp\Administration_APP\Administration_APP\bin\Debug\Administration_APP.pdb
+C:\xampp\Administration_APP\Administration_APP\bin\Debug\MetroFramework.dll
+C:\xampp\Administration_APP\Administration_APP\bin\Debug\MetroFramework.Fonts.dll
+C:\xampp\Administration_APP\Administration_APP\bin\Debug\MySql.Data.xml
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csprojResolveAssemblyReference.cache
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.AddEditForm.resources
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.LoginForm.resources
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.OrderForm.resources
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Properties.Resources.resources
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Warehouse.resources
+C:\xampp\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csproj.GenerateResource.Cache
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe.config
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\Administration_APP.exe
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\bin\Debug\Administration_APP.pdb
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.AddEditForm.resources
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.LoginForm.resources
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.OrderForm.resources
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Properties.Resources.resources
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.Warehouse.resources
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.csproj.GenerateResource.Cache
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.exe
+D:\_OneDrive\OneDrive\Szakdolgozat_Shared\C# App\Administration_APP\Administration_APP\obj\Debug\Administration_APP.pdb
